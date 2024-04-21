@@ -1933,14 +1933,14 @@ a:hover {
 .hero .bg,
 .hero .bg2 {
   background-color: #ca2027;
-  background-image: url(../images/hero/wallpap.jpg);
+  background-image: url(../images/background/wallpaperflare.com_wallpaper\ \(1\).jpg);
   background-repeat: no-repeat;
   background-position: top center;
   position: relative;
   background-size: cover;
 }
 .hero .bg2 {
-  background-image: url(../images/hero/hero-bg.jpg);
+  background-image: url(../images/background/wallpaperflare.com_wallpaper.jpg);
 }
 .hero .max {
   max-width: 650px;
